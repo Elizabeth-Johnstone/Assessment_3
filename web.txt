@@ -1,0 +1,10 @@
+Part 6: Explain How the Web Works
+
+How does the internet work? What happens when you click on a link?
+
+When we click on a link, a request is sent to a server. There are different types of requests. For example, we could make a "get request," which simply asks for data. We could also make a "post request," which requests a change to existing data. Some other requests include "put" and "delete" requests. Before requests are sent to the server, they are converted into IP addresses through a process called DNS, or Domain Name System. After the request is sent, the server produces a response. Common responses include HTML, JS, CSS, PNG/JPEG, and JSON responses. These responses can be viewed through a browser, like GoogleChrome. Browsers are capable of reading and rendering HTML, running JavaScript, and more.
+
+In sum, what happens when you click on a link depends on how the link was built by the developers of the website. For example, if the link was built to make a get request, you will be sending a get request to a server. The type of response you receive from the server will also depend on how exactly the website was built to deal with the specific get request you have made.
+
+
+
