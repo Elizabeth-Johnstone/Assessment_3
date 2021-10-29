@@ -1,5 +1,5 @@
 body {
-  background: #ddd;
+  background: rgb(252, 231, 250);
   margin: 1rem;
   padding: 1rem;
   max-width: 500px;
@@ -8,7 +8,7 @@ body {
 }
 
 nav {
-	border-bottom: 2px solid orange;
+	border-bottom: 2px solid rgb(40, 46, 78);
 }
 
 ol {
@@ -21,11 +21,11 @@ ol {
 }
 
 a {
-	color: orange;
+	color: rgb(41, 48, 116);
 }
 
 a:visited {
-	color: crimson;
+	color: rgb(76, 107, 165);
 }
 
 

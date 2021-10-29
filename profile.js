@@ -6,15 +6,15 @@ const place = document.querySelector('#place')
 const ritual = document.querySelector('#ritual')
 
 
-function alertColor(event) {
+function alertColor() {
     alert('My favorite color is mint-green')
 }
 
-function alertPlace(event) {
+function alertPlace() {
     alert('My favorite place is London')
 }
 
-function alertRitual(event) {
+function alertRitual() {
     alert('My favorite ritual is Halloween')
 }
 
